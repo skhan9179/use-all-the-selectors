@@ -13,3 +13,11 @@ nav ul{
 .logo {
   text-transform: uppercase;
 }
+
+.wrapper {
+  background-color: #b58900;
+}
+
+#contents, #favs, #facts, #types {
+  color: #93a1a1;
+}
